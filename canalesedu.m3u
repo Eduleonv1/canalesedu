@@ -19,3 +19,10 @@ http://135.125.191.60/hls/ecutv1.m3u8
 
 #EXTINF:0,OROMAR TV
 http://135.125.191.60/hls/ecutv3.m3u8
+
+#EXTINF:0,CANELA TV
+https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w1082425630.m3u8
+
+#EXTINF:0,TVC
+https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM1NzE3NDcwLCJzZXNzaW9uIjoiMTU3LjEwMC4xNzQuMjM4Iiwid2hpdGVsaXN0IjpbIjE1Ny4xMDAuMTc0LjIzOCIsIjI4MDA6YmYwOjJjNToxMmJiOjQ4N2I6ZWMyMTo2ODZlOjFlMDgiXX0sInNpZ25hdHVyZSI6ImNlOGZjMjcyMWQyZmViNGU5NGFjMmU1MDhhNTM4MDE0NjRlMDU1OTIifQ==
+
