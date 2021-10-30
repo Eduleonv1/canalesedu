@@ -1,0 +1,21 @@
+#EXTM3U
+
+
+
+#EXTINF:0,TC TELEVISIÓN HD
+https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl_CDCe24un9ACdeH9sVPMV8)/dm/3/x7wijay/d/live-2.m3u8
+
+#EXTINF:0,ECUAVISA
+http://135.125.191.60/hls/ecutv2.m3u8
+
+#EXTINF:0,RTS
+http://135.125.191.60/hls/ecutv4.m3u8
+
+#EXTINF:0,TELEAMAZONAS
+http://135.125.191.60/hls/ecutv1.m3u8
+
+#EXTINF:0,CANAL UNO
+http://135.125.191.60/hls/ecutv1.m3u8
+
+#EXTINF:0,OROMAR TV
+http://135.125.191.60/hls/ecutv3.m3u8

@@ -1,2 +1,0 @@
-# canalesedu
-canales
