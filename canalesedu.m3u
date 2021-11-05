@@ -25,3 +25,6 @@ https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w1082425630.m3u
 
 #EXTINF:0,TVC
 https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM2MjM5MDg4LCJzZXNzaW9uIjoiMTkxLjk5LjU2LjE0NSIsIndoaXRlbGlzdCI6WyIxOTEuOTkuNTYuMTQ1Il19LCJzaWduYXR1cmUiOiI3MmVmMGJkMTllMDJlMjAzYWM3NDkxNzRkNGM0NzMwMTI4ZWM0YWU3In0=
+
+#EXTINF:0,ECUADOR TV
+http://api.new.livestream.com/accounts/27228685/events/9764041/broadcasts/227133863.m3u8
