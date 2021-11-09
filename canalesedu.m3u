@@ -24,10 +24,16 @@ http://135.125.191.60/hls/ecutv3.m3u8
 https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w1082425630.m3u8
 
 #EXTINF:0,TVC
-https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM2MjM5MDg4LCJzZXNzaW9uIjoiMTkxLjk5LjU2LjE0NSIsIndoaXRlbGlzdCI6WyIxOTEuOTkuNTYuMTQ1Il19LCJzaWduYXR1cmUiOiI3MmVmMGJkMTllMDJlMjAzYWM3NDkxNzRkNGM0NzMwMTI4ZWM0YWU3In0=
+https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM2NTgwNDk1LCJzZXNzaW9uIjoiMTkwLjYzLjI0MS40NSIsIndoaXRlbGlzdCI6WyIxOTAuNjMuMjQxLjQ1Il19LCJzaWduYXR1cmUiOiJlN2JhMThlOWVhYTcyNWFlZGY2ZTU1ZGY2M2ExNjkxNGJiNDQwNzFkIn0%3D
 
 #EXTINF:0,ECUADOR TV
 http://api.new.livestream.com/accounts/27228685/events/9764041/broadcasts/227174556.m3u8
+
+#EXTINF:0,RTU
+https://streamingwowza.com:1936/rtutv/rtutv/chunklist_w314281846.m3u8
+
+#EXTINF:0,TELERAMA
+http://181.175.114.83:8080/livestream/stream.m3u8
 
 #EXTINF:0,ASOMAVISION
 https://asomastream.duckdns.org/livestream/stream.m3u8
