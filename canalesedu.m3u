@@ -28,3 +28,9 @@ https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/chunklist_b1248000.m3u8?iut=
 
 #EXTINF:0,ECUADOR TV
 http://api.new.livestream.com/accounts/27228685/events/9764041/broadcasts/227174556.m3u8
+
+#EXTINF:0,ASOMAVISION
+https://asomastream.duckdns.org/livestream/stream.m3u8
+
+#EXTINF:0,HECHOS TV
+https://video1.lhdserver.es/hechostv/live.m3u8
