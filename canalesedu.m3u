@@ -3,7 +3,7 @@
 
 
 #EXTINF:0,TC TELEVISIÓN HD
-https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl8X01dWnN9u_dZ3prOmelaY)/dm/3/x7wijay/d/live-2.m3u8
+https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl6MRqVVI7STkiQ7wgiBBHq8)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:0,ECUAVISA
 http://135.125.191.60/hls/ecutv2.m3u8
@@ -27,7 +27,7 @@ https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w1082425630.m3u
 https://ec-tvc-tvc-live.ned.media/tvc/smil:tvc.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM2NzI2NzkzLCJzZXNzaW9uIjoiMTkxLjk5LjU2LjMxIiwid2hpdGVsaXN0IjpbIjE5MS45OS41Ni4zMSJdfSwic2lnbmF0dXJlIjoiYTc2NmRhMDAwNjBjODJiYmJhODNhNjkzY2MzN2RmMmNlYzMwMDA2ZiJ9
 
 #EXTINF:0,ECUADOR TV
-http://api.new.livestream.com/accounts/27228685/events/9764041/broadcasts/227250443.m3u8
+http://api.new.livestream.com/accounts/27228685/events/9764041/broadcasts/227276466.m3u8
 
 #EXTINF:0,UCSGHQ
 https://ecuastream.net:1936/UCSGHQ/UCSGHQ/chunklist_w1171106590.m3u8
